@@ -15,9 +15,9 @@
 
 | Project | Description | Install |
 |---------|-------------|---------|
-| **[coolify-plugin](https://github.com/r-seriesx/coolify-plugin)** | MCP integration for managing Coolify deployment platform | `bunx @jurislm/coolify-plugin@latest` |
-| **[hetzner-plugin](https://github.com/r-seriesx/hetzner-plugin)** | MCP integration for managing Hetzner Cloud infrastructure | `bunx @jurislm/hetzner-plugin@latest` |
-| **[judicial-mcp](https://github.com/r-seriesx/judicial-mcp)** | MCP server for accessing Taiwan Judicial Yuan open data and judgments | `bunx @jurislm/judicial-mcp@latest` |
+| **[coolify-plugin](https://github.com/r-seriesx/coolify-plugin)** | MCP integration for managing Coolify deployment platform | `bun x @jurislm/coolify-plugin@latest` |
+| **[hetzner-plugin](https://github.com/r-seriesx/hetzner-plugin)** | MCP integration for managing Hetzner Cloud infrastructure | `bun x @jurislm/hetzner-plugin@latest` |
+| **[judicial-mcp](https://github.com/r-seriesx/judicial-mcp)** | MCP server for accessing Taiwan Judicial Yuan open data and judgments | `bun x @jurislm/judicial-mcp@latest` |
 
 ---
 
