@@ -15,10 +15,9 @@
 
 | Project | Description | Install |
 |---------|-------------|---------|
-| **[coolify-mcp](https://github.com/jurislm/coolify-mcp)** | MCP integration for managing Coolify deployment platform with Claude AI | `bunx @jurislm/coolify-mcp@latest` |
-| **[hetzner-mcp](https://github.com/jurislm/hetzner-mcp)** | Manage Hetzner Cloud infrastructure from Claude Code via natural language | `bunx @jurislm/hetzner-mcp@latest` |
-| **[judicial-mcp](https://github.com/jurislm/judicial-mcp)** | MCP server for accessing Taiwan Judicial Yuan open data and judgments | `bunx @jurislm/judicial-mcp@latest` |
-| **[langfuse-mcp](https://github.com/jurislm/langfuse-mcp)** | MCP server for Langfuse prompt management and observability | `bunx @jurislm/langfuse-mcp@latest` |
+| **[coolify-plugin](https://github.com/r-seriesx/coolify-plugin)** | MCP integration for managing Coolify deployment platform | `bun x @jurislm/coolify-plugin@latest` |
+| **[hetzner-plugin](https://github.com/r-seriesx/hetzner-plugin)** | MCP integration for managing Hetzner Cloud infrastructure | `bun x @jurislm/hetzner-plugin@latest` |
+| **[judicial-mcp](https://github.com/r-seriesx/judicial-mcp)** | MCP server for accessing Taiwan Judicial Yuan open data and judgments | `bun x @jurislm/judicial-mcp@latest` |
 
 ---
 
